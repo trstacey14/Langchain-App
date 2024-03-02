@@ -5,11 +5,6 @@
 
 # # Taylor Stacey
 
-# In[1]:
-
-
-pip install streamlit langchain openai
-
 
 # In[3]:
 
